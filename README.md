@@ -70,5 +70,5 @@ def stop_zeppelin():
 
 # Contact Information
 
-- <bigdata@lists.ubuntu.com>
+- <andrewdmcleod@github>
 
